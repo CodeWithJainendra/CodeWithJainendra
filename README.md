@@ -9,12 +9,9 @@ I'm currently working on Android App Development<br>I'm looking to collaborate o
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 
-![106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594](https://user-images.githubusercontent.com/118425907/221398624-14971bbf-5614-44b4-b20e-30db3c169247.gif)     ![WH1T3 E4GL3s's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=WH1T3-E4GL3&show_icons=true&theme=dark#gh-dark-mode-only)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shivam&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shivam&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594](https://user-images.githubusercontent.com/118425907/221398624-14971bbf-5614-44b4-b20e-30db3c169247.gif)     ![ GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=WH1T3-E4GL3&show_icons=true&theme=dark#gh-dark-mode-only)
+
 
 
 
