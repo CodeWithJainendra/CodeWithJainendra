@@ -14,7 +14,8 @@ I'm currently working on Android App Development<br>I'm looking to collaborate o
 
 
 
-
+<p align="center"><a href="https://github.com/rixon-cochi"><img title="TECH-COCHI" src="https://github-readme-stats.vercel.app/api?username=rixon-cochi&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shivam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
