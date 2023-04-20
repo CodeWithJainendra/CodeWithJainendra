@@ -1,5 +1,28 @@
 # 💫 About Me:
-I'm currently working on Android App Development<br>I'm looking to collaborate on software developing- related content creation<br>As  currently focusing on developing an App for Road Security using AI/ML.<br>I'm currently learning Node.js & Flutter<br>Ask me about Ethical Hacking....<br>Fun fact - I am Lazy but Smart
+Welcome to my Github profile.
+
+
+
+Currently I am working on new Article and Video Tutorial (maybe Series) to setup effective Portfolio.
+
+I spend my spare time learning about
+
+Video Recording and PostProduction (my current work is here)
+Photography and Editing with Lightroom (my current work is here and here)
+Electronics with RaspberryPi and related tools
+A bit of Guitar 😉
+I am open for writing, photo and video collaborations.
+
+If you have any questions or ideas regrading:
+
+Technical Writing
+Blogging
+Learning Process
+Programming Discussions
+anything else where you want a good debate ;)
+you can reach me with theses ways
+
+⬅ See here 🙃
 
 
 ## 🌐 Socials:
