@@ -1,50 +1,38 @@
-# 💫 About Me:
+# Hii There 👋
+
 Welcome to my Github profile.
 
 
 
-Currently I am working on new Article and Video Tutorial (maybe Series) to setup effective Portfolio.
+Currently I am working on Developing Adnroid Apps & Writing New Articles() to setup effective Portfolio.
 
 I spend my spare time learning about
 
-Video Recording and PostProduction (my current work is here)
-Photography and Editing with Lightroom (my current work is here and here)
-Electronics with RaspberryPi and related tools
-A bit of Guitar 😉
-I am open for writing, photo and video collaborations.
+<br>● I'm looking for help with developing an Android App ( Intelligent Driver Assistant System) Using AI/ML.<br>● I'm looking to collaborate on Software/Apps testing-related content creation <br>● Electronics with RaspberryPi and related tools <br> ● A bit of Singing 😉<br>
+<br>I am open for Developing Android Apps & Ethical Hacking collaborations.
+<br>
 
 If you have any questions or ideas regrading:
 
-Technical Writing
-Blogging
-Learning Process
-Programming Discussions
-anything else where you want a good debate ;)
-you can reach me with theses ways
+● Ethical Hacking<br>
+● Blogging <br>
+● Learning Process<br>
+● Programming Discussions<br>
+● anything else where you want a good debate ;)
+<br>
+<br> you can reach me with theses ways<br>
 
 ⬅ See here 🙃
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cyrusdemon7/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jainendra-singh-2b0084104/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shivamraaj15) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 
 
-![106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594](https://user-images.githubusercontent.com/118425907/221398624-14971bbf-5614-44b4-b20e-30db3c169247.gif)     ![ GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=WH1T3-E4GL3&show_icons=true&theme=dark#gh-dark-mode-only)
+![106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594](https://user-images.githubusercontent.com/118425907/221398624-14971bbf-5614-44b4-b20e-30db3c169247.gif)    
 
-
-
-<p align="center"><a href="https://github.com/rixon-cochi"><img title="TECH-COCHI" src="https://github-readme-stats.vercel.app/api?username=rixon-cochi&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
-</p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shivam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/shivamraaj15)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
